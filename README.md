@@ -39,5 +39,5 @@
  <li>Always use a strong and secure password.</li>
 </ui>
 
-
+<hr>
 <p>Thank you for using Instagram Auto Post! If you find this project useful, please support us by giving a star to the repository.</p>
